@@ -39,7 +39,11 @@
   },
   "dependencies": {
     "imports-loader": "^0.8.0",
+<<<<<<< HEAD
     "jquery": "3.4.1",
+=======
+    "jquery": "^3.3.1",
+>>>>>>> 71ffabb3e3e5be9dfb527d0fd8ea7ce134f072c7
     "zepto": "^1.2.0"
   },
   "devDependencies": {
@@ -60,7 +64,11 @@
     "chalk": "^2.3.2",
     "concat-files": "^0.1.1",
     "copy-webpack-plugin": "^4.5.1",
+<<<<<<< HEAD
     "cross-env": "5.2.0",
+=======
+    "cross-env": "^5.1.5",
+>>>>>>> 71ffabb3e3e5be9dfb527d0fd8ea7ce134f072c7
     "css-loader": "^0.28.0",
     "del-cli": "^1.0.0",
     "eslint": "^4.1.1",
@@ -79,18 +87,31 @@
     "image-webpack-loader": "^4.0.0",
     "istanbul-instrumenter-loader": "^2.0.0",
     "jasmine": "^2.5.3",
+<<<<<<< HEAD
     "jasmine-core": "2.99.1",
     "karma": "2.0.0",
     "karma-chrome-launcher": "^2.0.0",
     "karma-coverage": "^1.1.1",
     "karma-jasmine": "1.1.1",
     "karma-jasmine-html-reporter": "0.2.2",
+=======
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.5.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-coverage": "^1.1.1",
+    "karma-jasmine": "^1.1.0",
+    "karma-jasmine-html-reporter": "^0.2.2",
+>>>>>>> 71ffabb3e3e5be9dfb527d0fd8ea7ce134f072c7
     "karma-sourcemap-loader": "^0.3.7",
     "karma-webpack": "^2.0.2",
     "less": "^3.0.1",
     "less-loader": "^4.1.0",
     "loader-utils": "^1.1.0",
+<<<<<<< HEAD
     "lodash": "4.17.10",
+=======
+    "lodash": "^4.17.5",
+>>>>>>> 71ffabb3e3e5be9dfb527d0fd8ea7ce134f072c7
     "node-sass": "^4.5.2",
     "npm-run-all": "^4.0.1",
     "postcss-cssnext": "^3.0.2",
